@@ -4155,7 +4155,7 @@ img.u-pull-left {
 }
 
 .ss-copyright span {
-    font-size : var(--text-sm);
+    font-size : var(--text-xs);
     display   : inline-block;
 }
 

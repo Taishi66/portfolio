@@ -346,10 +346,10 @@
     }; // end ssMoveTo
 
 
+
     /* Initialize
      * ------------------------------------------------------ */
     (function ssInit() {
-
         ssPreloader();
         ssMobileMenu();
         ssScrollSpy();
@@ -358,7 +358,8 @@
         ssLightbox();
         ssAlertBoxes();
         ssMoveTo();
-
     })();
+
+
 
 })(document.documentElement);
